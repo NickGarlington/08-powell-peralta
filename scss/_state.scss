@@ -1,0 +1,24 @@
+
+
+@media screen and (min-width: 630px) {
+
+  header, .middle {
+    width: 50%;
+    float: left;
+  }
+
+  footer {
+     clear: both;
+  }
+}
+
+
+@media screen and (min-width: 340px) {
+  .header, .middle, .footer {
+    width: 33%;
+    float: left;
+  }
+
+  .footer {
+     clear: none;
+  }

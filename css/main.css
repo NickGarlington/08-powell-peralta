@@ -1,0 +1,73 @@
+header {
+  width: 1030px;
+  margin: 0 auto; }
+
+.social-container {
+  background-color: blue;
+  width: 500px;
+  height: 50px;
+  float: right; }
+
+.link-bars {
+  width: 1030px;
+  height: 40px;
+  background-color: purple;
+  float: right;
+  margin-top: 20px; }
+
+.header-image {
+  width: 1024px;
+  height: 300px;
+  float: right;
+  background-image: url("../images/top-image.png");
+  border: 3px solid white;
+  background-position: 40% 30%;
+  margin-top: 20px; }
+
+.three-dots {
+  width: 1030px;
+  height: 40px;
+  background-color: green;
+  float: right;
+  margin-top: 20px; }
+
+.articles {
+  width: 1030px;
+  height: 360px;
+  background-color: black;
+  margin: 0 auto;
+  margin-top: 20px; }
+
+.photo-layout {
+  width: 1030px;
+  height: 360px;
+  background-color: burlywood;
+  margin: 0 auto;
+  margin-top: 20px; }
+
+.skateboards {
+  width: 1030px;
+  height: 300px;
+  background-color: orange;
+  margin: 0 auto;
+  margin-top: 20px; }
+
+.contact-box {
+  width: 1030px;
+  height: 360px;
+  background-color: red;
+  margin: 0 auto;
+  margin-top: 20px; }
+
+ul {
+  list-style-type: none; }
+
+li img {
+  width: 30px;
+  height: 30px;
+  float: right;
+  margin-left: 12px; }
+
+.clearfix, header {
+  overflow: auto;
+  zoom: 1; }
